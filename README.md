@@ -2,5 +2,5 @@
 It is an introduction to version control with Git. 
 
 
-# Extra info # 🥳
+# Extra info  🥳
 this makes it more informative 
